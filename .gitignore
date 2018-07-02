@@ -24,3 +24,5 @@ hs_err_pid*
 
 # JSON Files
 *.json
+
+dir_to_ignore/node_modules
