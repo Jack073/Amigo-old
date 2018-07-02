@@ -11,8 +11,8 @@
 * `npm install --save discord.js` in your bot's project folder
 * Good to go!
 
-# Requirements:
-# SuperAgent - `npm install superagent`
+## Requirements:
+* SuperAgent - `npm install superagent`
 
 ## Configuration Setup
 1. Add files with names *botconfig.json* and *token.json*
